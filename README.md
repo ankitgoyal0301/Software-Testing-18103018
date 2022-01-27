@@ -14,3 +14,9 @@ This repository contains Lab Work, Assignments and Project work for Software Tes
 
 - Use [PlantUML](https://plantuml.com/) to make _Usecase_ and _Sequence_ Diagrams.
 - You can use your Minor Project Diagrams here.
+
+### Lab - 2
+
+**Task:**
+
+- Create markdown file for images and code done in the lab-1
